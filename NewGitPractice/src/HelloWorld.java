@@ -10,6 +10,9 @@ public class HelloWorld {
 
 		System.out.println("Hi, Im elfo!");
 
+
+		System.out.println("Ako tao, hindi ako atakbo!");
+
 		
 		System.out.println("Good lucks!");
 
